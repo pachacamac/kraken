@@ -27,3 +27,7 @@ x - a hashing daemon which
 
 - only allow downloads from peers
 - count downloads per file?
+
+look into
+http://httparty.rubyforge.org/
+http://www.rubyinside.com/nethttp-cheat-sheet-2940.html
